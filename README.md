@@ -1,6 +1,6 @@
 <h1 align="center">👋 <i>Hey there</i>, I'm Nicholas <i>!!</i></h1>
 <h3 align="center">A passionate, ambitious and curious <b>Data Analyst</b> in Fife, <i>Scotland</i> <img src="https://em-content.zobj.net/source/joypixels/369/flag-scotland_1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png" alt="Scotland Flag" height="16">󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿</h3>
-<br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=njvrensburg&label=Profile%20views&color=0e75b6&style=flat" alt="njvrensburg" /> </p>
 
 - 🔍 I'm currently seeking a role in **Data Analytics** with a special interest in **Business Intelligence** or related positions
 
@@ -12,7 +12,7 @@
 
 - 🛠️ Tried and tested **Skills** honed over years: **SQL**, Databases and **Spreadsheets**
 
-- 👨‍💻 Take a look at my **Projects** to get a sense of what I am capable: <img src="https://asset.brandfetch.io/idesu24UCd/idlp8WjDnQ.jpeg?updated=1720346757114" alt="Turing College" width="18" height="18"/> <a href="https://github.com/njvrensburg?tab=repositories">Turing College Project Portfolio</a><br>(<i>Please note</i>, I am currently populating this portfolio with all my work so <i><b>be sure to check back</b> !!</i>)
+- 👨‍💻 Take a look at my **Projects** to get a sense of what I am capable: <img src="https://asset.brandfetch.io/idesu24UCd/idlp8WjDnQ.jpeg?updated=1720346757114" alt="Turing College" width="18" height="18"/> <a href="https://github.com/njvrensburg/Turing-College">Turing College Project Portfolio</a><br>(<i>Please note</i>, I am currently populating this portfolio with all my work so <i><b>be sure to check back</b> !!</i>)
 
 - 💡 Always actively *learning* and *upskilling*. <br>Currently focussing on: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="18" height="18"/> **Python**
 
